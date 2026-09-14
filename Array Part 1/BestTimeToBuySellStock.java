@@ -20,7 +20,6 @@ class BestTimeToBuySellStock {
                 maxProfit = profit;
             }
         }
-
         return maxProfit;
     }
 
